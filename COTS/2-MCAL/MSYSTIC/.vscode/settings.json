@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "rcc.h": "c",
+        "msystick.h": "c",
+        "x": "cpp"
+    }
+}
